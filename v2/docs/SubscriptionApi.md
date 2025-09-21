@@ -32,7 +32,7 @@ import (
 	"context"
 	"fmt"
 	"os"
-	openapiclient "github.com/toshi1127/go-revenuecat/v2"
+	openapiclient "github.com/toshi1127/revenuecat-go/v2"
 )
 
 func main() {
@@ -105,7 +105,7 @@ import (
 	"context"
 	"fmt"
 	"os"
-	openapiclient "github.com/toshi1127/go-revenuecat/v2"
+	openapiclient "github.com/toshi1127/revenuecat-go/v2"
 )
 
 func main() {
@@ -178,7 +178,7 @@ import (
 	"context"
 	"fmt"
 	"os"
-	openapiclient "github.com/toshi1127/go-revenuecat/v2"
+	openapiclient "github.com/toshi1127/revenuecat-go/v2"
 )
 
 func main() {
@@ -251,7 +251,7 @@ import (
 	"context"
 	"fmt"
 	"os"
-	openapiclient "github.com/toshi1127/go-revenuecat/v2"
+	openapiclient "github.com/toshi1127/revenuecat-go/v2"
 )
 
 func main() {
@@ -324,7 +324,7 @@ import (
 	"context"
 	"fmt"
 	"os"
-	openapiclient "github.com/toshi1127/go-revenuecat/v2"
+	openapiclient "github.com/toshi1127/revenuecat-go/v2"
 )
 
 func main() {
@@ -401,7 +401,7 @@ import (
 	"context"
 	"fmt"
 	"os"
-	openapiclient "github.com/toshi1127/go-revenuecat/v2"
+	openapiclient "github.com/toshi1127/revenuecat-go/v2"
 )
 
 func main() {
@@ -477,7 +477,7 @@ import (
 	"context"
 	"fmt"
 	"os"
-	openapiclient "github.com/toshi1127/go-revenuecat/v2"
+	openapiclient "github.com/toshi1127/revenuecat-go/v2"
 )
 
 func main() {
@@ -550,7 +550,7 @@ import (
 	"context"
 	"fmt"
 	"os"
-	openapiclient "github.com/toshi1127/go-revenuecat/v2"
+	openapiclient "github.com/toshi1127/revenuecat-go/v2"
 )
 
 func main() {

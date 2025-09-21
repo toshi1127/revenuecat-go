@@ -14,7 +14,7 @@ import (
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 	"testing"
-	openapiclient "github.com/toshi1127/go-revenuecat/revenuecat"
+	openapiclient "github.com/toshi1127/revenuecat-go/revenuecat"
 )
 
 func Test_revenuecat_OfferingAPIService(t *testing.T) {

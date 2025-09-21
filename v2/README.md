@@ -22,7 +22,7 @@ go get golang.org/x/net/context
 Put the package under your project folder and add the following in import:
 
 ```go
-import v2 "github.com/toshi1127/go-revenuecat/v2"
+import v2 "github.com/toshi1127/revenuecat-go/v2"
 ```
 
 To use a proxy, set the environment variable `HTTP_PROXY`:
