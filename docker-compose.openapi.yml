@@ -1,0 +1,15 @@
+version: '3'
+
+services:
+  openapigen:
+    image: openapitools/openapi-generator-cli:v7.15.0
+    volumes:
+      - .:/openapi
+    command: |
+      generate -i
+      openapi/openapi/reference/revenuecat.v2.yaml
+      -g go
+      --git-repo-id=go-revenuecat/v2
+      --git-user-id=toshi1127
+      --additional-properties=packageName=v2
+      -o openapi/v2
