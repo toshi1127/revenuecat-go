@@ -20,9 +20,9 @@ type EligibilityCriteria string
 
 // List of EligibilityCriteria
 const (
-	ALL EligibilityCriteria = "all"
-	GOOGLE_SDK_LT_6 EligibilityCriteria = "google_sdk_lt_6"
-	GOOGLE_SDK_GE_6 EligibilityCriteria = "google_sdk_ge_6"
+	EligibilityCriteriaALL EligibilityCriteria = "all"
+	EligibilityCriteriaGoogleSdkLt6 EligibilityCriteria = "google_sdk_lt_6"
+	EligibilityCriteriaGoogleSdkGe6 EligibilityCriteria = "google_sdk_ge_6"
 )
 
 // All allowed values of EligibilityCriteria enum

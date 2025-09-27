@@ -20,12 +20,12 @@ type RCBillingCurrency string
 
 // List of RCBillingCurrency
 const (
-	AUD RCBillingCurrency = "AUD"
-	CAD RCBillingCurrency = "CAD"
-	EUR RCBillingCurrency = "EUR"
-	GBP RCBillingCurrency = "GBP"
-	JPY RCBillingCurrency = "JPY"
-	USD RCBillingCurrency = "USD"
+	RCBillingCurrencyAUD RCBillingCurrency = "AUD"
+	RCBillingCurrencyCAD RCBillingCurrency = "CAD"
+	RCBillingCurrencyEUR RCBillingCurrency = "EUR"
+	RCBillingCurrencyGBP RCBillingCurrency = "GBP"
+	RCBillingCurrencyJPY RCBillingCurrency = "JPY"
+	RCBillingCurrencyUSD RCBillingCurrency = "USD"
 )
 
 // All allowed values of RCBillingCurrency enum
